@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-16T00:59:16.510Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" etag="e9Wq-uOeeecdOB13tyoN" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-17T01:53:02.947Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36" etag="nZL8DF1nDKi7f0ir8X8w" version="14.9.6" type="github">
   <diagram id="CEmt5clOs632sGGXOFOk" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="NsFcIUygdTMheR6z-H4k-18" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px&quot; color=&quot;#ffffff&quot;&gt;List of Boxers:&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="NsFcIUygdTMheR6z-H4k-1" vertex="1">
           <mxGeometry x="20" y="440" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="DvZqmBgnwOEmZjxEGPZ_-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.ebayimg.com/images/g/7yQAAOSwEVhfz4lq/s-l400.jpg;" vertex="1" parent="NsFcIUygdTMheR6z-H4k-1">
+        <mxCell id="DvZqmBgnwOEmZjxEGPZ_-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.ebayimg.com/images/g/7yQAAOSwEVhfz4lq/s-l400.jpg;" parent="NsFcIUygdTMheR6z-H4k-1" vertex="1">
           <mxGeometry x="10" y="260" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="NsFcIUygdTMheR6z-H4k-12" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.containers.userMale;strokeColor2=#008cff;fillColor=#D0D1FF;strokeColor=#FFFFFF;" parent="1" vertex="1">
@@ -52,7 +52,7 @@
         <mxCell id="NsFcIUygdTMheR6z-H4k-19" value="&lt;font color=&quot;#ffffff&quot;&gt;Footer&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#E5383B;" parent="1" vertex="1">
           <mxGeometry x="170" y="690" width="530" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NsFcIUygdTMheR6z-H4k-20" value="&lt;font color=&quot;#ffffff&quot;&gt;information:&amp;nbsp;&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#E5383B;" parent="1" vertex="1">
+        <mxCell id="NsFcIUygdTMheR6z-H4k-20" value="&lt;font color=&quot;#ffffff&quot;&gt;information:&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=#FFFFFF;fillColor=#E5383B;" parent="1" vertex="1">
           <mxGeometry x="170" y="600" width="530" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NsFcIUygdTMheR6z-H4k-25" value="&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#ffffff&quot;&gt;Muhammad Ali&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#ffffff&quot;&gt;Mike Tyson&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#ffffff&quot;&gt;Evander Holifield&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#ffffff&quot;&gt;Manny Pacquiao&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#ffffff&quot;&gt;Canelo Alvarze&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#ffffff&quot;&gt;George Forman&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#ffffff&quot;&gt;Joe Fraizer&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;font color=&quot;#ffffff&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -61,13 +61,13 @@
         <mxCell id="NsFcIUygdTMheR6z-H4k-26" value="&lt;font face=&quot;Times New Roman&quot; color=&quot;#ffffff&quot;&gt;#FFCBF2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="605" y="220" width="65" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="DvZqmBgnwOEmZjxEGPZ_-2" value="&lt;a href=&quot;https://www.youtube.com/watch?v=Q6ZZmaNwaQI&quot;&gt;https://www.youtube.com/watch?v=Q6ZZmaNwaQI&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DvZqmBgnwOEmZjxEGPZ_-2" value="&lt;a href=&quot;https://www.youtube.com/watch?v=Q6ZZmaNwaQI&quot;&gt;https://www.youtube.com/watch?v=Q6ZZmaNwaQI&lt;/a&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="480" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DvZqmBgnwOEmZjxEGPZ_-3" value="&lt;span style=&quot;font-size: 14px ; text-align: left ; background-color: rgb(255 , 0 , 0)&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#ffffff&quot;&gt;Boxing is a combat sport in which two people, usually wearing protective gloves and other protective equipment such as hand wraps and mouth guards, throw punches at each other for a predetermined amount of time in a boxing ring.&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="DvZqmBgnwOEmZjxEGPZ_-3" value="&lt;span style=&quot;font-size: 14px ; text-align: left ; background-color: rgb(255 , 0 , 0)&quot;&gt;&lt;font face=&quot;Times New Roman&quot; color=&quot;#ffffff&quot;&gt;Boxing is a combat sport in which two people, usually wearing protective gloves and other protective equipment such as hand wraps and mouth guards, throw punches at each other for a predetermined amount of time in a boxing ring.&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="350" y="310" width="350" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="DvZqmBgnwOEmZjxEGPZ_-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.biography.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTE5NDg0MDU0ODc2NTU0NzY3/muhammad-ali-1-raw.jpg;" vertex="1" parent="1">
+        <mxCell id="DvZqmBgnwOEmZjxEGPZ_-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.biography.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTE5NDg0MDU0ODc2NTU0NzY3/muhammad-ali-1-raw.jpg;" parent="1" vertex="1">
           <mxGeometry x="548" y="435" width="152" height="160" as="geometry" />
         </mxCell>
       </root>
